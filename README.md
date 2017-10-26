@@ -5,3 +5,4 @@ Git Subtree Test - Dependency repository
 
 - Added to main
 - Updated only sub
+- Updating sub from sub
